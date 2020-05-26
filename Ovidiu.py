@@ -37,7 +37,3 @@ class Child(Parent):
         return self.city_list
         
         
-b= Parent()
-b.met4()
-a = Child()
-a.met4()
